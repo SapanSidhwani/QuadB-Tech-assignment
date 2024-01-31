@@ -12,7 +12,7 @@ function RootLayout() {
   return (
     <>
       <Navbar />
-      <div className="container" style={{ marginTop: '70px', minWidth: '576px' }}>
+      <div className="container" style={{ marginTop: '90px', marginBottom: '40px', minWidth: '576px' }}>
         <Outlet />
       </div>
 
