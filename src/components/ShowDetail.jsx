@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link, useParams } from 'react-router-dom';
 import { useState, useEffect } from 'react';
-import noImage from '../assets/no-image.png'
 
 const ShowDetail = () => {
 
